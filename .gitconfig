@@ -1,0 +1,6 @@
+[user]
+        name = Yosuf Ali
+        email = yosufali@users.noreply.github.com
+        signingkey = 5E2C36AEF166AEAB
+[commit]
+        gpgsign = true
