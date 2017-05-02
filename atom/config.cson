@@ -2,7 +2,14 @@
   core:
     telemetryConsent: "no"
   editor:
-    fontSize: 11
+    fontSize: 13
   "exception-reporting":
     userId: "fddb8e9d-94cf-0583-d00a-b9cb94e7da92"
   "tree-view": {}
+  "git-plus":
+    general:
+      _analyticsUserId: "799dfbe7-5f90-401a-a850-6132548f4f69"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
