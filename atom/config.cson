@@ -1,0 +1,8 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 11
+  "exception-reporting":
+    userId: "fddb8e9d-94cf-0583-d00a-b9cb94e7da92"
+  "tree-view": {}
