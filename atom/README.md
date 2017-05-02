@@ -1,4 +1,4 @@
-# atom dotfiles
+# Atom Dotfiles
 
 ### **Packages**
 

@@ -1,3 +1,3 @@
-## dotfiles
+## Dotfiles
 
 Personal OS configurations.
