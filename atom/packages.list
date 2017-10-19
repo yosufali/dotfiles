@@ -1,6 +1,6 @@
 atom-beautify@0.30.5
 atom-elixir@0.2.3
-autocomplete-modules@1.7.2
+autocomplete-modules@1.7.3
 busy-signal@1.4.3
 change-case@0.6.5
 color-picker@2.2.5
@@ -20,11 +20,11 @@ language-matlab@0.2.1
 language-nginx@0.8.0
 linter@2.2.0
 linter-elixir-credo@1.1.0
-linter-eslint@8.3.2
+linter-eslint@8.4.0
 linter-stylelint@4.0.2
 linter-ui-default@1.6.10
 markdown-toc@0.4.2
-markdown-writer@2.7.2
+markdown-writer@2.7.3
 minimap@4.29.7
 multi-cursor@2.1.5
 pigments@0.40.2
