@@ -1,5 +1,6 @@
 atom-beautify@0.30.5
 atom-elixir@0.2.3
+atom-ide-ui@0.5.1
 autocomplete-modules@1.7.3
 busy-signal@1.4.3
 change-case@0.6.5
