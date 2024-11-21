@@ -1,0 +1,17 @@
+{
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "gitlens.ai.experimental.provider": "openai",
+  "gitlens.ai.experimental.openai.model": "gpt-4-1106-preview",
+  "telemetry.telemetryLevel": "off",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "amazonQ.telemetry": false,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "aws.telemetry": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "amazonQ.showInlineCodeSuggestionsWithCodeReferences": false,
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2
+}
