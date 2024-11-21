@@ -1,6 +1,8 @@
 [user]
         name = Yosuf Ali
         email = yosufali@users.noreply.github.com
-        signingkey = 5E2C36AEF166AEAB
+        # signingkey = UPDATE
+[init]
+	defaultBranch = main
 [commit]
-        gpgsign = true
+        # gpgsign = true - UNCOMMENT WHEN signingkey is updated
