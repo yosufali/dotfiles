@@ -17,6 +17,8 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew update
 brew upgrade
 brew analytics off
+brew tap hashicorp/tap
+brew tap supabase/tap
 
 apps=(
   awscli
@@ -30,12 +32,17 @@ apps=(
   stow
   tmux
   vim
+
+  hashicorp/tap/terraform
+  supabase/tap/supabase
 )
 
 brew install "${apps[@]}"
 
 cask_apps=(
+  docker
   google-chrome
+  pycharm-ce
   visual-studio-code
 )
 
