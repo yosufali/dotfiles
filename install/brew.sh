@@ -24,8 +24,11 @@ apps=(
   htop
   nvm
   ollama
+  pyenv
+  pyenv-virtualenv
   stow
   tmux
+  vim
 )
 
 # TODO: move to it's own file
