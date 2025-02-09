@@ -19,6 +19,7 @@ brew upgrade
 brew analytics off
 
 apps=(
+  go
   htop
   nvm
   ollama
