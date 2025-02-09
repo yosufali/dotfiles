@@ -1,35 +1,36 @@
-code --install-extension amazonwebservices.aws-toolkit-vscode
-code --install-extension bigonesystems.django
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension denoland.vscode-deno
-code --install-extension eamodio.gitlens
-code --install-extension github.copilot
-code --install-extension github.copilot-chat
-code --install-extension github.vscode-github-actions
-code --install-extension github.vscode-pull-request-github
-code --install-extension golang.go
-code --install-extension grapecity.gc-excelviewer
-code --install-extension hashicorp.terraform
-code --install-extension mechatroner.rainbow-csv
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-dotnettools.vscode-dotnet-runtime
-code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
-code --install-extension ms-python.black-formatter
-code --install-extension ms-python.debugpy
-code --install-extension ms-python.python
-code --install-extension ms-python.vscode-pylance
-code --install-extension ms-toolsai.jupyter
-code --install-extension ms-toolsai.jupyter-keymap
-code --install-extension ms-toolsai.jupyter-renderers
-code --install-extension ms-toolsai.vscode-jupyter-cell-tags
-code --install-extension ms-toolsai.vscode-jupyter-slideshow
-code --install-extension ms-vscode-remote.remote-containers
-code --install-extension ms-vscode.makefile-tools
-code --install-extension msjsdiag.vscode-react-native
-code --install-extension msyrus.go-doc
-code --install-extension redhat.vscode-xml
-code --install-extension redhat.vscode-yaml
-code --install-extension stripe.vscode-stripe
-code --install-extension unifiedjs.vscode-mdx
-code --install-extension vue.volar
-code --install-extension zxh404.vscode-proto3
+#!/bin/bash
+code --install-extension amazonwebservices.aws-toolkit-vscode --force
+code --install-extension bigonesystems.django --force
+code --install-extension dbaeumer.vscode-eslint --force
+code --install-extension denoland.vscode-deno --force
+code --install-extension eamodio.gitlens --force
+code --install-extension github.copilot --force
+code --install-extension github.copilot-chat --force
+code --install-extension github.vscode-github-actions --force
+code --install-extension github.vscode-pull-request-github --force
+code --install-extension golang.go --force
+code --install-extension grapecity.gc-excelviewer --force
+code --install-extension hashicorp.terraform --force
+code --install-extension mechatroner.rainbow-csv --force
+code --install-extension ms-azuretools.vscode-docker --force
+code --install-extension ms-dotnettools.vscode-dotnet-runtime --force
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools --force
+code --install-extension ms-python.black-formatter --force
+code --install-extension ms-python.debugpy --force
+code --install-extension ms-python.python --force
+code --install-extension ms-python.vscode-pylance --force
+code --install-extension ms-toolsai.jupyter --force
+code --install-extension ms-toolsai.jupyter-keymap --force
+code --install-extension ms-toolsai.jupyter-renderers --force
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags --force
+code --install-extension ms-toolsai.vscode-jupyter-slideshow --force
+code --install-extension ms-vscode-remote.remote-containers --force
+code --install-extension ms-vscode.makefile-tools --force
+code --install-extension msjsdiag.vscode-react-native --force
+code --install-extension msyrus.go-doc --force
+code --install-extension redhat.vscode-xml --force
+code --install-extension redhat.vscode-yaml --force
+code --install-extension stripe.vscode-stripe --force
+code --install-extension unifiedjs.vscode-mdx --force
+code --install-extension vue.volar --force
+code --install-extension zxh404.vscode-proto3 --force
