@@ -16,6 +16,7 @@ Customise:
 
 TODO:
 - aws, go
+- global gitignore
 Manual:
 - Set git config details
 - Docker Desktop
