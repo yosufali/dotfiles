@@ -25,8 +25,11 @@ Install VS Code extensions
 ```
 
 TODO:
-- aws, go
 - global gitignore
+- .config/Code/...
+- .config/...
+- gpg + git signing
+
 Manual:
 - Set git config details
 - Docker Desktop

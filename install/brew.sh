@@ -35,6 +35,7 @@ apps=(
 brew install "${apps[@]}"
 
 cask_apps=(
+  google-chrome
   visual-studio-code
 )
 
