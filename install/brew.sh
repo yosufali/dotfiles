@@ -19,8 +19,10 @@ brew upgrade
 brew analytics off
 
 apps=(
+  awscli
   go
   htop
+  kubectl
   nvm
   ollama
   pyenv
