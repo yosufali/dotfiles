@@ -23,8 +23,10 @@ brew tap supabase/tap
 apps=(
   awscli
   go
+  helm
   htop
   kubectl
+  minikube
   nvm
   ollama
   pyenv
@@ -35,6 +37,7 @@ apps=(
 
   hashicorp/tap/terraform
   supabase/tap/supabase
+  stripe/stripe-cli/stripe
 )
 
 brew install "${apps[@]}"
