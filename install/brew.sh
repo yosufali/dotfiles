@@ -44,7 +44,9 @@ brew install "${apps[@]}"
 
 cask_apps=(
   docker
+  ghostty
   google-chrome
+  obsidian
   pycharm-ce
   visual-studio-code
 )

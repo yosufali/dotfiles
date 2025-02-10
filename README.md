@@ -32,7 +32,3 @@ TODO:
 
 Manual:
 - Set git config details
-- Docker Desktop
-- 
-
-- Delete Chrome + try cask? 
