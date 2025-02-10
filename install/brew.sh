@@ -48,6 +48,7 @@ cask_apps=(
   google-chrome
   obsidian
   pycharm-ce
+  rectangle
   visual-studio-code
 )
 
