@@ -28,6 +28,7 @@ apps=(
   htop
   kubectl
   minikube
+  neovim
   nvm
   ollama
   pyenv
