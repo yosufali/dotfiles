@@ -50,6 +50,7 @@ cask_apps=(
   ghostty
   google-chrome
   google-cloud-sdk
+  neo4j
   obsidian
   postico
   pycharm-ce
