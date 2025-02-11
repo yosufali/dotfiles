@@ -22,6 +22,7 @@ brew tap supabase/tap
 
 apps=(
   awscli
+  deno
   go
   helm
   htop
@@ -33,6 +34,7 @@ apps=(
   pyenv-virtualenv
   stow
   tmux
+  tree
   vim
 
   hashicorp/tap/terraform
@@ -43,10 +45,13 @@ apps=(
 brew install "${apps[@]}"
 
 cask_apps=(
+  dbeaver-community
   docker
   ghostty
   google-chrome
+  google-cloud-sdk
   obsidian
+  postico
   pycharm-ce
   rectangle
   visual-studio-code
