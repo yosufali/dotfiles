@@ -29,7 +29,8 @@ apps=(
   kubectl
   minikube
   neovim
-  nvm
+	node
+	nvm
   ollama
   pyenv
   pyenv-virtualenv
@@ -46,6 +47,7 @@ apps=(
 brew install "${apps[@]}"
 
 cask_apps=(
+  chatgpt
   dbeaver-community
   docker
   ghostty
@@ -56,6 +58,7 @@ cask_apps=(
   postico
   pycharm-ce
   rectangle
+	todoist
   visual-studio-code
 )
 
