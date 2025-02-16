@@ -48,7 +48,8 @@ brew install "${apps[@]}"
 
 cask_apps=(
   chatgpt
-  dbeaver-community
+  claude
+	dbeaver-community
   docker
   ghostty
   google-chrome
