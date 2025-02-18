@@ -4,5 +4,11 @@
         # signingkey = UPDATE
 [init]
 	defaultBranch = main
+
+[includeIf "gitdir:**/work/**/.git"]
+  path = ~/.gitconfig.work
+
 [commit]
-        # gpgsign = true - UNCOMMENT WHEN signingkey is updated
+				# gpgsign = true - UNCOMMENT WHEN signingkey is updated
+
+
