@@ -29,8 +29,8 @@ apps=(
   kubectl
   minikube
   neovim
-	node
-	nvm
+  node
+  nvm
   ollama
   pyenv
   pyenv-virtualenv
@@ -59,6 +59,7 @@ cask_apps=(
   postico
   pycharm-ce
   rectangle
+	sdformatter
 	slack
 	todoist
   visual-studio-code
