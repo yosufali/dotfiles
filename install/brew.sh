@@ -40,8 +40,8 @@ apps=(
   vim
 
   hashicorp/tap/terraform
-  supabase/tap/supabase
   stripe/stripe-cli/stripe
+  supabase/tap/supabase
 )
 
 brew install "${apps[@]}"
@@ -49,7 +49,7 @@ brew install "${apps[@]}"
 cask_apps=(
   chatgpt
   claude
-	dbeaver-community
+  dbeaver-community
   docker
   ghostty
   google-chrome
