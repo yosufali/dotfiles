@@ -59,11 +59,11 @@ cask_apps=(
   postico
   pycharm-ce
   rectangle
-	sdformatter
-	slack
-	todoist
+  sdformatter
+  slack
+  todoist
   visual-studio-code
-	wireshark
+  wireshark
 )
 
 brew install --cask "${cask_apps[@]}"
