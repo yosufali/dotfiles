@@ -58,6 +58,7 @@ cask_apps=(
   obsidian
   postico
   pycharm-ce
+  raspberry-pi-imager
   rectangle
   sdformatter
   slack
