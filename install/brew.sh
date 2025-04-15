@@ -37,6 +37,7 @@ apps=(
   stow
   tmux
   tree
+  uv
   vim
 
   hashicorp/tap/terraform
@@ -60,6 +61,7 @@ cask_apps=(
   pycharm-ce
   raspberry-pi-imager
   rectangle
+  screen-studio
   sdformatter
   slack
   todoist
