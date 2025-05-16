@@ -32,8 +32,6 @@ apps=(
   node
   nvm
   ollama
-  pyenv
-  pyenv-virtualenv
   stow
   tmux
   tree
