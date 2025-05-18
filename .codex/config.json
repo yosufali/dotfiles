@@ -1,0 +1,13 @@
+{
+  "model": "qwen2.5-coder:3b",
+  "provider": "ollama",
+  "providers": {
+    "ollama": {
+      "name": "Ollama",
+      "baseURL": "http://localhost:11434/v1",
+      "envKey": "OLLAMA_API_KEY"
+    }
+  },
+  "approvalMode": "suggest",
+  "fullAutoErrorMode": "ask-user"
+}

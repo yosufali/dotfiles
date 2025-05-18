@@ -22,6 +22,7 @@ brew tap supabase/tap
 
 apps=(
   awscli
+  codex
   deno
   go
   helm
