@@ -17,11 +17,13 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew update
 brew upgrade
 brew analytics off
+brew tap FelixKratz/formulae
 brew tap hashicorp/tap
 brew tap supabase/tap
 
 apps=(
   awscli
+  borders
   codex
   deno
   go
@@ -66,6 +68,8 @@ cask_apps=(
   todoist
   visual-studio-code
   wireshark
+
+  nikitabobko/tap/aerospace
 )
 
 brew install --cask "${cask_apps[@]}"
