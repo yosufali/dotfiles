@@ -32,9 +32,13 @@ apps=(
   kubectl
   minikube
   neovim
+  nmap
   node
   nvm
   ollama
+  pre-commit
+  pytest
+  stats
   stow
   tmux
   tree
@@ -51,11 +55,13 @@ brew install "${apps[@]}"
 cask_apps=(
   chatgpt
   claude
+  cursor
   dbeaver-community
   docker
   ghostty
   google-chrome
   google-cloud-sdk
+  insomnia
   neo4j
   obsidian
   postico
