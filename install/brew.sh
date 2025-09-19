@@ -26,6 +26,7 @@ apps=(
   borders
   codex
   deno
+  gcloud
   go
   helm
   htop
@@ -58,6 +59,7 @@ cask_apps=(
   cursor
   dbeaver-community
   docker
+  duckduckgo
   ghostty
   google-chrome
   google-cloud-sdk
