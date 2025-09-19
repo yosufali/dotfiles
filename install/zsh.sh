@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 current_dir=$(pwd)
 
 if ! command -v zsh 2>&1 >/dev/null; then
@@ -11,7 +13,7 @@ else
     echo "zsh is already installed, updating ..."
     # using stow prevents git pull with omz, stash and symlink again after update
     cd ~/.oh-my-zsh && git stash
-    omz update
+    $ZSH/tools/upgrade.sh
     cd $current_dir
     stow --adopt -t ~ .
     echo "zsh is updated. check dotfiles for any new changes that need to be commited"
