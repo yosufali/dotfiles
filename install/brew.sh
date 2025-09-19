@@ -26,7 +26,6 @@ apps=(
   borders
   codex
   deno
-  gcloud
   go
   helm
   htop
