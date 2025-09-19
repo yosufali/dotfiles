@@ -9,7 +9,7 @@ if ! command -v zsh 2>&1 >/dev/null; then
     echo "you will need to log out and back in for the changes to take effect"
 else
     echo "zsh is already installed, updating ..."
-    # using stow prevents git pull with omz, stash and synlink again after update
+    # using stow prevents git pull with omz, stash and symlink again after update
     cd ~/.oh-my-zsh && git stash
     omz update
     cd $current_dir
