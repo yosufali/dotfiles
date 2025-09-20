@@ -24,6 +24,7 @@ brew tap supabase/tap
 apps=(
   awscli
   borders
+  cocoapods
   codex
   deno
   go
