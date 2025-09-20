@@ -38,7 +38,6 @@ apps=(
   ollama
   pre-commit
   pytest
-  stats
   stow
   tmux
   tree
@@ -72,6 +71,7 @@ cask_apps=(
   screen-studio
   sdformatter
   slack
+  stats
   todoist
   visual-studio-code
   wireshark
