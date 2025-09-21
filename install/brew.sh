@@ -71,6 +71,7 @@ cask_apps=(
   rectangle
   screen-studio
   sdformatter
+  sf-symbols
   slack
   stats
   todoist
