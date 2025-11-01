@@ -53,8 +53,6 @@ apps=(
 brew install "${apps[@]}"
 
 cask_apps=(
-  chatgpt
-  claude
   cursor
   dbeaver-community
   docker
